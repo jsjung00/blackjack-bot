@@ -1,5 +1,5 @@
 # blackjack-bot
-Allows for user to play textual blackjack. 
+Allows for user to play textual blackjack with message-kit 
 
 Based on the one-to-one example.
 
